@@ -8,6 +8,8 @@
 
 📫 Check out my [personal website](https://gendin.info) for contact information
 
+❤️ I'm passionate about motorcycles 🏍️ and mountains ⛰️
+
 <!--
 **maksymgendin/maksymgendin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
