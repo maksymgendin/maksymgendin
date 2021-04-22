@@ -10,4 +10,4 @@
 
 ❤️ I'm passionate about motorcycles 🏍️ and mountains ⛰️
 
-[![Motorcycle and mountains](https://github.com/maksymgendin/maksymgendin/raw/main/moto_nature.jpg)](https://gendin.info)
+![Motorcycle and mountains](https://github.com/maksymgendin/maksymgendin/raw/main/moto_nature.jpg)
