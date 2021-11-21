@@ -11,4 +11,4 @@
 ❤️ I'm passionate about motorcycles 🏍️ and mountains ⛰️
 
 <img src='https://github.com/maksymgendin/maksymgendin/raw/main/moto_nature.jpg'/>
-<img src='https://github-readme-stats.vercel.app/api?username=maksymgendin&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true'/>
+<img src='https://github-readme-stats.vercel.app/api?username=maksymgendin&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true&border_radius=0&cache_seconds=86400'/>
