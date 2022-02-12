@@ -1,6 +1,6 @@
 ### Hi there ☀️
 
-#### My name is Maksym and I'm a professional software development generalist with a broad experience across different roles and areas.
+#### My name is Maksym and I'm a professional software engineering generalist with a broad experience across different roles and areas.
 
 💻 I'm currently working as Technical Lead at [TeamBank AG](https://www.teambank.de)
 
