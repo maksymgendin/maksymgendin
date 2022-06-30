@@ -10,6 +10,8 @@
 
 ❤️ I'm passionate about music 🎸, motorcycles 🏍️ and mountains ⛰️
 
-<br />
+<hr />
+
+Here are some of my GitHub metrics:
 
 ![Metrics](/github-metrics.svg)
