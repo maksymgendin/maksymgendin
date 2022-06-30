@@ -12,6 +12,6 @@
 
 <hr />
 
-Here are some of my GitHub metrics:
+Here are some of my GitHub statistics:
 
 ![Metrics](/github-metrics.svg)
