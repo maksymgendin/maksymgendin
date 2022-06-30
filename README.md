@@ -11,4 +11,5 @@
 ❤️ I'm passionate about music 🎸, motorcycles 🏍️ and mountains ⛰️
 
 <br />
-<img src='https://github-readme-stats.vercel.app/api?username=maksymgendin&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true&border_radius=0&cache_seconds=86400'/>
+
+![Metrics](/github-metrics.svg)
