@@ -2,7 +2,7 @@
 
 #### My name is Maksym and I'm a professional software engineering generalist with a broad experience across different roles and areas.
 
-💻 I'm currently working as Technical Lead at [TeamBank AG](https://www.teambank.de)
+💻 I'm currently pushing software engineering at [TeamBank AG](https://www.teambank.de) to the next level
 
 🙏 Reach out to me if you're looking for a mentor or just for some advices, I will try me best to help you!
 
