@@ -50,8 +50,8 @@ jobs:
           plugin_reactions_details: count # Display reactions count but not percentage
 
           # The followup plugin displays the ratio of open/closed issues and the ratio of open/merged pull requests across all your repositories, which shows if they're well-maintained or not.
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
+          # plugin_followup: yes
+          # plugin_followup_sections: repositories, user
 
           # The lines of code plugin displays the number of lines of code you have added and removed across all of your repositories.
           plugin_lines: yes
