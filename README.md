@@ -10,6 +10,8 @@
 
 ❤️ I'm passionate about music 🎸, motorcycles 🏍️ and mountains ⛰️
 
+☁️ Also I'm a member in the [Deutschsprachige Cloud Native(s) Community (DCNC)](https://github.com/dcnc-eu)
+
 <hr />
 
 Here are some of my GitHub statistics:
