@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/maksymgendin">![LinkedIn](https://img.shields.io/static/v1?style=flat&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)</a>
-<a href="https://mastodon.social/@maksymgendin">![Mastodon](https://img.shields.io/static/v1?style=flat&message=Mastodon&color=6364FF&logo=mastodon&logoColor=FFFFFF&label=)</a>
+<a rel="me" href="https://mastodon.social/@maksymgendin">![Mastodon](https://img.shields.io/static/v1?style=flat&message=Mastodon&color=6364FF&logo=mastodon&logoColor=FFFFFF&label=)</a>
 
 ### Hi there ☀️
 
