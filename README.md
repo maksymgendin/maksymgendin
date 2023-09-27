@@ -5,9 +5,9 @@
 <a href="https://www.xing.com/profile/Maksym_Gendin">![Xing](https://img.shields.io/static/v1?style=flat&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)</a>
 <a href="https://twitter.com/MaksymGendin">![Twitter](https://img.shields.io/static/v1?style=flat&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)</a>
 
-### Hi there ☀️
+**Hi there ☀️**
 
-#### My name is Maksym and I'm a professional software craftsman and engineering generalist with a broad experience across different roles and areas.
+My name is Maksym and I'm a professional software craftsman and engineering generalist with a broad experience across different roles and areas.
 
 💻 I'm currently pushing software engineering at [TeamBank AG](https://www.teambank.de) to the next level
 
