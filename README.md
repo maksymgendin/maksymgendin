@@ -3,7 +3,7 @@
 <a href="https://mastodon.social/@maksymgendin">![Mastodon](https://img.shields.io/static/v1?style=flat&message=Mastodon&color=6364FF&logo=mastodon&logoColor=FFFFFF&label=)</a>
 <a href="https://www.meetup.com/members/332630668">![Meetup](https://img.shields.io/static/v1?style=flat&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)</a>
 <a href="https://www.xing.com/profile/Maksym_Gendin">![Xing](https://img.shields.io/static/v1?style=flat&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)</a>
-<a href="https://twitter.com/MaksymGendin">![Twitter](https://img.shields.io/static/v1?style=flat&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)</a>
+<a href="https://x.com/MaksymGendin">![X](https://img.shields.io/static/v1?style=flat&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)</a>
 
 **Hi there ☀️**
 
